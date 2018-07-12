@@ -12,6 +12,12 @@ Open Toy based in Arduino and Amigurumi
 - RFID-RC522 Kit Module
 - Mini Non-audible indicator Vibration DC Motor Vibrating Module
 
+## About:
+
+### Amigurum: https://en.wikipedia.org/wiki/Amigurumi
+
+### Arduino: https://www.arduino.cc/
+
 
 
 
