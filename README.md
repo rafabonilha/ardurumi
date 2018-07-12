@@ -11,6 +11,7 @@ Open Toy based in Arduino and Amigurumi
 - Thin Piezo Electronic Buzzer
 - RFID-RC522 Kit Module
 - Mini Non-audible indicator Vibration DC Motor Vibrating Module
+```
 
 ## About:
 
